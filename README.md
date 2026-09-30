@@ -158,7 +158,7 @@ Before starting, install the following:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/WireNetwork-Tech-Hub/Altrix.git
+git clone https://github.com/Wire-Altrix-Demo/Altrix.git
 cd Altrix
 ```
 
